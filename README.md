@@ -1,33 +1,51 @@
-# ftrz
-Hi, my name is Future, welcome to my profile, I'm just a CyberSecurity enthusiast and I have fun with some projects xD
 <div align="center">
- <img src="YOUR_PROFILE_PICTURE_URL" width="300" style="border-radius: 50%;" />
-/div>
-## Tech Stack
-<div align="left">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-/div>
-## Social
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SEU_DISCORD)
-## Recently Played on Spotify
-<div align="left">
- <img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_SPOTIFY_ID&cover_image=true&theme=novatorem" />
-/div>
-![Snake animation](https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg)
-<div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8A2BE2&height=160&section=header&text=ftrz&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=CyberSecurity%20Enthusiast&descSize=20&descAlignY=55"/>
+  <p align="center">
+   <img src="YOUR_PROFILE_PICTURE_URL" width="200" style="border-radius: 50%; border: 2px solid #8A2BE2" />
+ </p>
+  ```typescript
+ class Developer {
+   name = "Future";
+   role = "CyberSecurity Enthusiast";
+   location = "Boston, EUA";
+   
+   skills = {
+     languages: ["TypeScript", "JavaScript", "PHP", "SQL"],
+     frameworks: ["Electron", "React", "Node.js"],
+     tools: ["VSCode", "Git", "Docker"],
+     interests: ["CyberSecurity", "Web Development", "Desktop Apps"]
+   };
+ }
+ ```
+  <div style="display: inline_block"><br>
+   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   <img align="center" alt="Electron" src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
+   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+ </div>
+  <br>
+ 
+ <div>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
+ </div>
+  <br>
+  <div align="center">
+   <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
+     <img src="https://img.shields.io/badge/-Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white">
+   </a>
+   <a href="https://discord.gg/SEU_DISCORD" target="_blank">
+     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+   </a>
+ </div>
+  <br>
+  <div align="center">
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=8A2BE2&bar_color_cover=false"/>
+ </div>
+  <br>
+ 
+ <img src="https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8A2BE2&height=120&section=footer"/>
 /div>
